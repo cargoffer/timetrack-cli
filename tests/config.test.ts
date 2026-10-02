@@ -3,6 +3,6 @@ import { getApiBase } from '../src/config.js';
 
 describe('config', () => {
   it('returns default API base', () => {
-    expect(getApiBase()).toBe('https://timetracker.cargoffer.com/api/v1');
+    expect(getApiBase()).toBe('https://api.timetracker.cargoffer.com/api/v1');
   });
 });

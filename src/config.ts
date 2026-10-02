@@ -2,7 +2,7 @@ import Conf from 'conf';
 import { z } from 'zod';
 
 const EnvSchema = z.object({
-  TIMETRACK_API_URL: z.string().url().default('https://timetracker.cargoffer.com/api/v1'),
+  TIMETRACK_API_URL: z.string().url().default('https://api.timetracker.cargoffer.com/api/v1'),
   TIMETRACK_API_KEY: z.string().min(1).optional(),
 });
 

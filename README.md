@@ -17,7 +17,7 @@ npm install -g timetrack-cli
 
 ```bash
 # Configure API base and key
-export TIMETRACK_API_URL=https://timetracker.cargoffer.com/api/v1
+export TIMETRACK_API_URL=https://api.timetracker.cargoffer.com/api/v1
 export TIMETRACK_API_KEY=your-api-key
 
 # Or login via CLI

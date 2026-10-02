@@ -8,7 +8,7 @@ Open-source CLI for timetrack. This file exists to help AI coding agents contrib
 - Stack: TypeScript ESM, Commander, Vitest, tsdown
 - Node: >=20
 - Package dir: `/home/admin/code/BoomerDev/grupo2/timetrack/cli-public`
-- Backend API: `https://timetracker.cargoffer.com/api/v1`
+- Backend API: `https://api.timetracker.cargoffer.com/api/v1`
 - Auth: `X-API-Key`
 
 ## Commands
